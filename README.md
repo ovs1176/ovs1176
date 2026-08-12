@@ -8,6 +8,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="mailto:ovs1176@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
+    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
