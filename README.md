@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm OM VEER SINGH</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ovs1176&label=Profile%20views&color=0e75b6&style=flat" alt="ovs1176" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ovs1176&label=Profile%20views&color=0e75b6&style=flat" alt="ovs1176" /> tignt </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
